@@ -10,9 +10,8 @@ DeepSeek-o1 是一个使用 DeepSeek 模型创建推理链以提高输出准确�
 
 ## 安装
 
-1. 克隆仓库：
+1. 克隆仓库并进入根目录：
    ```bash
-   git clone https://github.com/your-username/deepseek-o1.git
    cd deepseek-o1
    ```
 
